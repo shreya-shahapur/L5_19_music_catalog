@@ -1,0 +1,7 @@
+************* Module music_catalog
+music_catalog.py:76:0: C0304: Final newline missing (missing-final-newline)
+music_catalog.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.49/10 (previous run: 9.49/10, +0.00)
+
